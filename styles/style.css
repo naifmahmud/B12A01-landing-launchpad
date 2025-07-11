@@ -39,6 +39,7 @@ nav ul li{
     background-color: #4E47FF;
     padding: 12px 14px;
     border-radius: 10px;
+    border: none;
     border-color: none;
 
 }
@@ -59,12 +60,12 @@ nav ul li{
 .Action-Section{
     display: flex;
     align-items: center;
-    gap: 300px;
+    gap: 200px;
     margin: 120px;
     padding: 150px 150px;
 }
 .action-contain{
-    margin: 92px 350px 92px 0;
+    margin: 92px 100px 92px 180px;
 }
 .action-title{
     font-size: 42px;
@@ -74,13 +75,43 @@ nav ul li{
 .action-subtiitle{
     font-size: 25px;
     font-weight: 517;
-    color: #252432;
+    color: #757575;
     margin-top: 23px;
     margin-bottom: 23;
 }
 
 .action-pic{
     border-radius: 48px;
+    border: none;
+    box-shadow: 0 4 4 0;
     width: 403px;
     height: 328px;
 }
+
+/* Productive Users Section */
+.Productive{
+    padding: 50px 142px;
+}
+.section-title{
+    font-size: 38px;
+    color: #252432;
+    font-weight: bold;
+    text-align: center;
+}
+.productive-items{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.text-size{
+    font-size:80px;
+    color: #4E47FF;
+    font-weight: bold;
+}
+.resize{
+    font-size: 20px;
+    color: #B3B3B3;
+}
+/* .reduced-margin {
+  margin: 50px;
+} */
