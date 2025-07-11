@@ -112,6 +112,44 @@ nav ul li{
     font-size: 20px;
     color: #B3B3B3;
 }
-/* .reduced-margin {
-  margin: 50px;
-} */
+.bg-color{
+    background-color: #D6DDED;
+    border-radius: 24px;
+    margin: 20px 250px 20px 250px;
+}
+
+/*  Let’s Get In Touch Section */
+.Get-in{
+    margin: 92px 150px 14px 150px;
+}
+
+.Get-in-touch{
+    display:flex;
+    gap: 50px;
+    margin-right: 50px;
+    padding: 129px 115px 129px 0;
+    justify-content: center;}
+
+.text-Get-in-touch{
+    font-size: 100px;
+    font-weight: 528px;
+    color:#000000 ;
+    padding: 129px 115px 129px 0;
+    margin-right: 50px;
+}
+
+.text-form-label{
+    font-size: 25px;
+}
+.mytext {
+    width: 497px;
+    height: 70px; ;
+}
+.text-area{
+    width: 497;
+    height: 235px;
+}
+textarea{
+    height: 135px;
+    width: 497px;
+}
