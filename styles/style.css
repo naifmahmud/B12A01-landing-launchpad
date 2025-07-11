@@ -54,3 +54,33 @@ nav ul li{
     font-weight: bold;
     color: #252432;
 }
+
+/* Action portion */
+.Action-Section{
+    display: flex;
+    align-items: center;
+    gap: 300px;
+    margin: 120px;
+    padding: 150px 150px;
+}
+.action-contain{
+    margin: 92px 350px 92px 0;
+}
+.action-title{
+    font-size: 42px;
+    color: #252432;
+    
+}
+.action-subtiitle{
+    font-size: 25px;
+    font-weight: 517;
+    color: #252432;
+    margin-top: 23px;
+    margin-bottom: 23;
+}
+
+.action-pic{
+    border-radius: 48px;
+    width: 403px;
+    height: 328px;
+}
